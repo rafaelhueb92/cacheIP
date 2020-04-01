@@ -1,0 +1,21 @@
+{
+  "name": "cacheIp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Rafael",
+    "email": "rafaelhueb92@gmail.com"
+  },
+  "scripts": {
+    "start": "nodemon src"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-cache": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
